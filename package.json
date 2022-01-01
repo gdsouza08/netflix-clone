@@ -37,5 +37,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdsouza08/netflix-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gdsouza08/netflix-clone/issues"
+  },
+  "homepage": "https://github.com/gdsouza08/netflix-clone#readme"
 }
